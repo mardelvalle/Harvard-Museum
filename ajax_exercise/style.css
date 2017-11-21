@@ -1,0 +1,13 @@
+body{
+  background: maroon;
+  text-align: center;
+  color:white;
+}
+button{
+  width: 100px;
+  height: 20px;
+  background: white;
+}
+div{
+  margin: 10px;
+}
