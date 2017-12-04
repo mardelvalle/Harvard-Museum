@@ -5,9 +5,16 @@ body{
 }
 button{
   width: 100px;
-  height: 20px;
+  height: 40px;
   background: white;
+  color: maroon;
+  text:bold;
 }
+
 div{
   margin: 10px;
+}
+input{
+  height: 35px;
+  width: 300px;
 }
