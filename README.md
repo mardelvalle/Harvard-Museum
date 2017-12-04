@@ -9,7 +9,7 @@ When the user types and submits an input value the api returns the first value r
 
 ## Optimizations:
 
-Add error messages as well as an enter key functionality.
+Align the search field and the search button.
 
 ## Lessons Learned:
 
